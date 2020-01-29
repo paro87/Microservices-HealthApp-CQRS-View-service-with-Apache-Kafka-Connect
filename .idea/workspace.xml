@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca38b496-586b-4fc3-a3d8-9d7821c1acd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WYkvo0LEcFCfjFA1AoaYAxGDxb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hospitalview-service/src/main/java/com/paro/hospitalviewservice" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.paro.hospitalviewservice.config" />
+      <recent name="com.paro.hospitalviewservice.repository" />
+      <recent name="com.paro.hospitalviewservice.model" />
+      <recent name="com.paro.departmentviewservice.repository" />
+      <recent name="com.paro.turbineservice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PAROS\IdeaProjects\HealthAppApacheKafkaSpringMVC\hospitalview-service\src\main\java\com\paro\hospitalviewservice" />
+      <recent name="C:\Users\PAROS\IdeaProjects\HealthAppApacheKafkaSpringMVC\hospitalview-service\src\main\resources" />
+      <recent name="C:\Users\PAROS\IdeaProjects\HealthAppApacheKafkaSpringMVC\departmentview-service\src\main\java\com\paro\departmentviewservice\model" />
+      <recent name="C:\Users\PAROS\IdeaProjects\HealthAppApacheKafkaSpringMVC\departmentview-service\src\main\java\com\paro\departmentviewservice" />
+      <recent name="C:\Users\PAROS\IdeaProjects\HealthAppApacheKafkaSpringMVC\departmentview-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HospitalviewServiceApplication">
+    <configuration name="ActuatorServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="actuator-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.actuatorservice.ActuatorServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigurationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="configuration-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.configurationservice.ConfigurationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="department-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.departmentservice.DepartmentServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentviewServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="departmentview-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.departmentviewservice.DepartmentviewServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.discoveryservice.DiscoveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hospital-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.hospitalservice.HospitalServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalviewServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hospitalview-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.hospitalviewservice.HospitalviewServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixdashboardServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrixdashboard-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.hystrixdashboardservice.HystrixdashboardServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatientServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="patient-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.patientservice.PatientServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurbineServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="turbine-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.turbineservice.TurbineServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.032284766" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca38b496-586b-4fc3-a3d8-9d7821c1acd0" name="Default Changelist" comment="" />
+      <created>1579334148978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579334148978</updated>
+      <workItem from="1579334152499" duration="2874000" />
+      <workItem from="1579339659856" duration="739000" />
+      <workItem from="1579340440253" duration="2075000" />
+      <workItem from="1579371116806" duration="4378000" />
+      <workItem from="1579418079407" duration="3759000" />
+      <workItem from="1579457756981" duration="2254000" />
+      <workItem from="1579598366441" duration="2856000" />
+      <workItem from="1579631568965" duration="591000" />
+      <workItem from="1579677335973" duration="1459000" />
+      <workItem from="1579848762738" duration="1352000" />
+      <workItem from="1580109223729" duration="96000" />
+      <workItem from="1580283300096" duration="11782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Project_Structure" timestamp="1579334155303">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1579334155303" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580286197810">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1580286197810" />
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580295171885">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1580295171885" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1579340579577">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579340579577" />
+    <state width="1168" height="185" key="GridCell.Tab.0.bottom" timestamp="1580295112918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1168" height="185" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580295112918" />
+    <state width="1168" height="185" key="GridCell.Tab.0.center" timestamp="1580295112918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1168" height="185" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580295112918" />
+    <state width="1168" height="185" key="GridCell.Tab.0.left" timestamp="1580295112918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1168" height="185" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580295112918" />
+    <state width="1168" height="185" key="GridCell.Tab.0.right" timestamp="1580295112918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1168" height="185" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580295112918" />
+    <state width="1168" height="185" key="GridCell.Tab.1.bottom" timestamp="1580295112918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1168" height="185" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580295112918" />
+    <state width="1168" height="185" key="GridCell.Tab.1.center" timestamp="1580295112918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1168" height="185" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580295112918" />
+    <state width="1168" height="185" key="GridCell.Tab.1.left" timestamp="1580295112918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1168" height="185" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580295112918" />
+    <state width="1168" height="185" key="GridCell.Tab.1.right" timestamp="1580295112918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1168" height="185" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580295112918" />
+    <state x="138" y="15" key="new project wizard" timestamp="1580289255285">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="138" y="15" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580289255285" />
+  </component>
+</project>
